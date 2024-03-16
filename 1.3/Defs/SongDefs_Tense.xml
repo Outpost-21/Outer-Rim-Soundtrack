@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/AgainstTheNight</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/AgainstTheStormtroopers</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/ALightsaberReforged</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/BountyHunters</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/EndOfTheSecondSister</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/EscapingTheEmpire</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/FangAndClaw</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/FightOnTheSarcophagus</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/MessyGetaway</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/PurgeTroopers</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/TheDemonOfTheCanyon</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/TheInquisition</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/TheNinthSister</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/TheRefinery</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/WarInTheSkies</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Tension/WarOfTheTrees</clipPath>
+		<volume>1.0</volume>
+		<tense>true</tense>
+	</SongDef>
+
+</Defs>

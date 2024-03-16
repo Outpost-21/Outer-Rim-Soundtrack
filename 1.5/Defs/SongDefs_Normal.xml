@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/BeadieOne</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Bogano</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/KashyyykTheWild</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Liberation</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/RiseAJedi</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/StrangeOne</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/TheAstrium</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/TombOfEilram</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/TombOfMiktrull</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+
+</Defs>

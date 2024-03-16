@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Night/ADarkTale</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Night/ANewAlly</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Night/Dathomir</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Night/Dreaming</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Night/Kidnapped</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Night/TheVault</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Night/WhatStandsInTheWay</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+</Defs>

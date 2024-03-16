@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Day/AuthorisedTrash</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Day/BloodOfTheMaster</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Day/FailureIsNotTheEnd</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Day/IlumTheTemple</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Day/MysteriesOfTheZeffo</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Day/ShyyyoFlight</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Day/ToKashyyyk</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>OuterRimMusic/Gameplay/Day/WreckageOfTheVenator</clipPath>
+		<volume>0.85</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+
+</Defs>
